@@ -1,0 +1,1504 @@
+{
+    "channels": [
+      {
+        "cha_Name": "SkySportsMainEvent[UK]",
+        "cha_URL": "https://topembed.pw/channel/SkySportsMainEvent[UK]"
+      },
+      {
+        "cha_Name": "SkySportsNews[UK]",
+        "cha_URL": "https://topembed.pw/channel/SkySportsNews[UK]"
+      },
+      {
+        "cha_Name": "SkySportsArena[UK]",
+        "cha_URL": "https://topembed.pw/channel/SkySportsArena[UK]"
+      },
+      {
+        "cha_Name": "SkySportsAction[UK]",
+        "cha_URL": "https://topembed.pw/channel/SkySportsAction[UK]"
+      },
+      {
+        "cha_Name": "SkySportsCricket[UK]",
+        "cha_URL": "https://topembed.pw/channel/SkySportsCricket[UK]"
+      },
+      {
+        "cha_Name": "SkySportsF1[UK]",
+        "cha_URL": "https://topembed.pw/channel/SkySportsF1[UK]"
+      },
+      {
+        "cha_Name": "SkySportsFootball[UK]",
+        "cha_URL": "https://topembed.pw/channel/SkySportsFootball[UK]"
+      },
+      {
+        "cha_Name": "SkySportsGolf[UK]",
+        "cha_URL": "https://topembed.pw/channel/SkySportsGolf[UK]"
+      },
+      {
+        "cha_Name": "SkySportsPremierLeague[UK]",
+        "cha_URL": "https://topembed.pw/channel/SkySportsPremierLeague[UK]"
+      },
+      {
+        "cha_Name": "SkySportsMix[UK]",
+        "cha_URL": "https://topembed.pw/channel/SkySportsMix[UK]"
+      },
+      {
+        "cha_Name": "SkySportsTennis[UK]",
+        "cha_URL": "https://topembed.pw/channel/SkySportsTennis[UK]"
+      },
+      {
+        "cha_Name": "SkySportsRacing[UK]",
+        "cha_URL": "https://topembed.pw/channel/SkySportsRacing[UK]"
+      },
+      {
+        "cha_Name": "TNTSports1[UK]",
+        "cha_URL": "https://topembed.pw/channel/TNTSports1[UK]"
+      },
+      {
+        "cha_Name": "TNTSports2[UK]",
+        "cha_URL": "https://topembed.pw/channel/TNTSports2[UK]"
+      },
+      {
+        "cha_Name": "BBCScotland[UK]",
+        "cha_URL": "https://topembed.pw/channel/BBCScotland[UK]"
+      },
+      {
+        "cha_Name": "TNTSports3[UK]",
+        "cha_URL": "https://topembed.pw/channel/TNTSports3[UK]"
+      },
+      {
+        "cha_Name": "TNTSports4[UK]",
+        "cha_URL": "https://topembed.pw/channel/TNTSports4[UK]"
+      },
+      {
+        "cha_Name": "PremierSports1[UK]",
+        "cha_URL": "https://topembed.pw/channel/PremierSports1[UK]"
+      },
+      {
+        "cha_Name": "PremierSports2[UK]",
+        "cha_URL": "https://topembed.pw/channel/PremierSports2[UK]"
+      },
+      {
+        "cha_Name": "Eurosport1[UK]",
+        "cha_URL": "https://topembed.pw/channel/Eurosport1[UK]"
+      },
+      {
+        "cha_Name": "Eurosport2[UK]",
+        "cha_URL": "https://topembed.pw/channel/Eurosport2[UK]"
+      },
+      {
+        "cha_Name": "ITV1[UK]",
+        "cha_URL": "https://topembed.pw/channel/ITV1[UK]"
+      },
+      {
+        "cha_Name": "ITV2[UK]",
+        "cha_URL": "https://topembed.pw/channel/ITV2[UK]"
+      },
+      {
+        "cha_Name": "ITV3[UK]",
+        "cha_URL": "https://topembed.pw/channel/ITV3[UK]"
+      },
+      {
+        "cha_Name": "ITV4[UK]",
+        "cha_URL": "https://topembed.pw/channel/ITV4[UK]"
+      },
+      {
+        "cha_Name": "BTN[USA]",
+        "cha_URL": "https://topembed.pw/channel/BTN[USA]"
+      },
+      {
+        "cha_Name": "ArenaSport1[Serbia]",
+        "cha_URL": "https://topembed.pw/channel/ArenaSport1[Serbia]"
+      },
+      {
+        "cha_Name": "ArenaPremium2[Serbia]",
+        "cha_URL": "https://topembed.pw/channel/ArenaPremium2[Serbia]"
+      },
+      {
+        "cha_Name": "CosmoteSport4[Greece]",
+        "cha_URL": "https://topembed.pw/channel/CosmoteSport4[Greece]"
+      },
+      {
+        "cha_Name": "CosmoteSport5[Greece]",
+        "cha_URL": "https://topembed.pw/channel/CosmoteSport5[Greece]"
+      },
+      {
+        "cha_Name": "CosmoteSport6[Greece]",
+        "cha_URL": "https://topembed.pw/channel/CosmoteSport6[Greece]"
+      },
+      {
+        "cha_Name": "CosmoteSport7[Greece]",
+        "cha_URL": "https://topembed.pw/channel/CosmoteSport7[Greece]"
+      },
+      {
+        "cha_Name": "CosmoteSport8[Greece]",
+        "cha_URL": "https://topembed.pw/channel/CosmoteSport8[Greece]"
+      },
+      {
+        "cha_Name": "CosmoteSport9[Greece]",
+        "cha_URL": "https://topembed.pw/channel/CosmoteSport9[Greece]"
+      },
+      {
+        "cha_Name": "Canal11[Portugal]",
+        "cha_URL": "https://topembed.pw/channel/Canal11[Portugal]"
+      },
+      {
+        "cha_Name": "DigiSport1[Romania]",
+        "cha_URL": "https://topembed.pw/channel/DigiSport1[Romania]"
+      },
+      {
+        "cha_Name": "DigiSport2[Romania]",
+        "cha_URL": "https://topembed.pw/channel/DigiSport2[Romania]"
+      },
+      {
+        "cha_Name": "DigiSport3[Romania]",
+        "cha_URL": "https://topembed.pw/channel/DigiSport3[Romania]"
+      },
+      {
+        "cha_Name": "DigiSport4[Romania]",
+        "cha_URL": "https://topembed.pw/channel/DigiSport4[Romania]"
+      },
+      {
+        "cha_Name": "ESPN[USA]",
+        "cha_URL": "https://topembed.pw/channel/ESPN[USA]"
+      },
+      {
+        "cha_Name": "ESPN2[USA]",
+        "cha_URL": "https://topembed.pw/channel/ESPN2[USA]"
+      },
+      {
+        "cha_Name": "ESPNDeportes[USA]",
+        "cha_URL": "https://topembed.pw/channel/ESPNDeportes[USA]"
+      },
+      {
+        "cha_Name": "ESPNU[USA]",
+        "cha_URL": "https://topembed.pw/channel/ESPNU[USA]"
+      },
+      {
+        "cha_Name": "ElevenSports1[Portugal]",
+        "cha_URL": "https://topembed.pw/channel/ElevenSports1[Portugal]"
+      },
+      {
+        "cha_Name": "ElevenSports2[Portugal]",
+        "cha_URL": "https://topembed.pw/channel/ElevenSports2[Portugal]"
+      },
+      {
+        "cha_Name": "ElevenSports3[Portugal]",
+        "cha_URL": "https://topembed.pw/channel/ElevenSports3[Portugal]"
+      },
+      {
+        "cha_Name": "ElevenSports4[Portugal]",
+        "cha_URL": "https://topembed.pw/channel/ElevenSports4[Portugal]"
+      },
+      {
+        "cha_Name": "Eurosport2[Romania]",
+        "cha_URL": "https://topembed.pw/channel/Eurosport2[Romania]"
+      },
+      {
+        "cha_Name": "ElevenSports5[Portugal]",
+        "cha_URL": "https://topembed.pw/channel/ElevenSports5[Portugal]"
+      },
+      {
+        "cha_Name": "ElevenSports6[Portugal]",
+        "cha_URL": "https://topembed.pw/channel/ElevenSports6[Portugal]"
+      },
+      {
+        "cha_Name": "Eurosport[Romania]",
+        "cha_URL": "https://topembed.pw/channel/Eurosport[Romania]"
+      },
+      {
+        "cha_Name": "FOXSports1[USA]",
+        "cha_URL": "https://topembed.pw/channel/FOXSports1[USA]"
+      },
+      {
+        "cha_Name": "FOXSports2[USA]",
+        "cha_URL": "https://topembed.pw/channel/FOXSports2[USA]"
+      },
+      {
+        "cha_Name": "FoxSports506[Australia]",
+        "cha_URL": "https://topembed.pw/channel/FoxSports506[Australia]"
+      },
+      {
+        "cha_Name": "GOLFChannel[USA]",
+        "cha_URL": "https://topembed.pw/channel/GOLFChannel[USA]"
+      },
+      {
+        "cha_Name": "NBATV[USA]",
+        "cha_URL": "https://topembed.pw/channel/NBATV[USA]"
+      },
+      {
+        "cha_Name": "NFLNetwork[USA]",
+        "cha_URL": "https://topembed.pw/channel/NFLNetwork[USA]"
+      },
+      {
+        "cha_Name": "NFLRedzone[USA]",
+        "cha_URL": "https://topembed.pw/channel/NFLRedzone[USA]"
+      },
+      {
+        "cha_Name": "NHLNetwork[USA]",
+        "cha_URL": "https://topembed.pw/channel/NHLNetwork[USA]"
+      },
+      {
+        "cha_Name": "NovaSports1[Greece]",
+        "cha_URL": "https://topembed.pw/channel/NovaSports1[Greece]"
+      },
+      {
+        "cha_Name": "NovaSports2[Greece]",
+        "cha_URL": "https://topembed.pw/channel/NovaSports2[Greece]"
+      },
+      {
+        "cha_Name": "NovaSports3[Greece]",
+        "cha_URL": "https://topembed.pw/channel/NovaSports3[Greece]"
+      },
+      {
+        "cha_Name": "NovaSports4[Greece]",
+        "cha_URL": "https://topembed.pw/channel/NovaSports4[Greece]"
+      },
+      {
+        "cha_Name": "NovaSports5[Greece]",
+        "cha_URL": "https://topembed.pw/channel/NovaSports5[Greece]"
+      },
+      {
+        "cha_Name": "NovaSports6[Greece]",
+        "cha_URL": "https://topembed.pw/channel/NovaSports6[Greece]"
+      },
+      {
+        "cha_Name": "NovaSportsStart[Greece]",
+        "cha_URL": "https://topembed.pw/channel/NovaSportsStart[Greece]"
+      },
+      {
+        "cha_Name": "OrangeSport1[Romania]",
+        "cha_URL": "https://topembed.pw/channel/OrangeSport1[Romania]"
+      },
+      {
+        "cha_Name": "OrangeSport2[Romania]",
+        "cha_URL": "https://topembed.pw/channel/OrangeSport2[Romania]"
+      },
+      {
+        "cha_Name": "OrangeSport3[Romania]",
+        "cha_URL": "https://topembed.pw/channel/OrangeSport3[Romania]"
+      },
+      {
+        "cha_Name": "OrangeSport4[Romania]",
+        "cha_URL": "https://topembed.pw/channel/OrangeSport4[Romania]"
+      },
+      {
+        "cha_Name": "PrimaSport1[Romania]",
+        "cha_URL": "https://topembed.pw/channel/PrimaSport1[Romania]"
+      },
+      {
+        "cha_Name": "PrimaSport4[Romania]",
+        "cha_URL": "https://topembed.pw/channel/PrimaSport4[Romania]"
+      },
+      {
+        "cha_Name": "PrimaSport2[Romania]",
+        "cha_URL": "https://topembed.pw/channel/PrimaSport2[Romania]"
+      },
+      {
+        "cha_Name": "PrimaSport3[Romania]",
+        "cha_URL": "https://topembed.pw/channel/PrimaSport3[Romania]"
+      },
+      {
+        "cha_Name": "ProArena[Romania]",
+        "cha_URL": "https://topembed.pw/channel/ProArena[Romania]"
+      },
+      {
+        "cha_Name": "SECNetwork[USA]",
+        "cha_URL": "https://topembed.pw/channel/SECNetwork[USA]"
+      },
+      {
+        "cha_Name": "SkyBundesliga[Germany]",
+        "cha_URL": "https://topembed.pw/channel/SkyBundesliga[Germany]"
+      },
+      {
+        "cha_Name": "SkyBundesliga1[Germany]",
+        "cha_URL": "https://topembed.pw/channel/SkyBundesliga1[Germany]"
+      },
+      {
+        "cha_Name": "SkyBundesliga2[Germany]",
+        "cha_URL": "https://topembed.pw/channel/SkyBundesliga2[Germany]"
+      },
+      {
+        "cha_Name": "SkyBundesliga3[Germany]",
+        "cha_URL": "https://topembed.pw/channel/SkyBundesliga3[Germany]"
+      },
+      {
+        "cha_Name": "SkyBundesliga4[Germany]",
+        "cha_URL": "https://topembed.pw/channel/SkyBundesliga4[Germany]"
+      },
+      {
+        "cha_Name": "SkyBundesliga5[Germany]",
+        "cha_URL": "https://topembed.pw/channel/SkyBundesliga5[Germany]"
+      },
+      {
+        "cha_Name": "SkyBundesliga6[Germany]",
+        "cha_URL": "https://topembed.pw/channel/SkyBundesliga6[Germany]"
+      },
+      {
+        "cha_Name": "SkyBundesliga7[Germany]",
+        "cha_URL": "https://topembed.pw/channel/SkyBundesliga7[Germany]"
+      },
+      {
+        "cha_Name": "SkyBundesliga8[Germany]",
+        "cha_URL": "https://topembed.pw/channel/SkyBundesliga8[Germany]"
+      },
+      {
+        "cha_Name": "SkyBundesliga9[Germany]",
+        "cha_URL": "https://topembed.pw/channel/SkyBundesliga9[Germany]"
+      },
+      {
+        "cha_Name": "SkySport1[Germany]",
+        "cha_URL": "https://topembed.pw/channel/SkySport1[Germany]"
+      },
+      {
+        "cha_Name": "SkySport10[Germany]",
+        "cha_URL": "https://topembed.pw/channel/SkySport10[Germany]"
+      },
+      {
+        "cha_Name": "SkySport2[Germany]",
+        "cha_URL": "https://topembed.pw/channel/SkySport2[Germany]"
+      },
+      {
+        "cha_Name": "SkySport3[Germany]",
+        "cha_URL": "https://topembed.pw/channel/SkySport3[Germany]"
+      },
+      {
+        "cha_Name": "SkySport4[Germany]",
+        "cha_URL": "https://topembed.pw/channel/SkySport4[Germany]"
+      },
+      {
+        "cha_Name": "SkySport5[Germany]",
+        "cha_URL": "https://topembed.pw/channel/SkySport5[Germany]"
+      },
+      {
+        "cha_Name": "SkySport6[Germany]",
+        "cha_URL": "https://topembed.pw/channel/SkySport6[Germany]"
+      },
+      {
+        "cha_Name": "SkySport7[Germany]",
+        "cha_URL": "https://topembed.pw/channel/SkySport7[Germany]"
+      },
+      {
+        "cha_Name": "SkySport8[Germany]",
+        "cha_URL": "https://topembed.pw/channel/SkySport8[Germany]"
+      },
+      {
+        "cha_Name": "SkySport9[Germany]",
+        "cha_URL": "https://topembed.pw/channel/SkySport9[Germany]"
+      },
+      {
+        "cha_Name": "SkySportTennis[Germany]",
+        "cha_URL": "https://topembed.pw/channel/SkySportTennis[Germany]"
+      },
+      {
+        "cha_Name": "SkySportTopEvent[Germany]",
+        "cha_URL": "https://topembed.pw/channel/SkySportTopEvent[Germany]"
+      },
+      {
+        "cha_Name": "SportTV1[Portugal]",
+        "cha_URL": "https://topembed.pw/channel/SportTV1[Portugal]"
+      },
+      {
+        "cha_Name": "SportTV2[Portugal]",
+        "cha_URL": "https://topembed.pw/channel/SportTV2[Portugal]"
+      },
+      {
+        "cha_Name": "SportTV3[Portugal]",
+        "cha_URL": "https://topembed.pw/channel/SportTV3[Portugal]"
+      },
+      {
+        "cha_Name": "SportTV5[Portugal]",
+        "cha_URL": "https://topembed.pw/channel/SportTV5[Portugal]"
+      },
+      {
+        "cha_Name": "SportTV4[Portugal]",
+        "cha_URL": "https://topembed.pw/channel/SportTV4[Portugal]"
+      },
+      {
+        "cha_Name": "SportTV6[Portugal]",
+        "cha_URL": "https://topembed.pw/channel/SportTV6[Portugal]"
+      },
+      {
+        "cha_Name": "Sportklub[Serbia]",
+        "cha_URL": "https://topembed.pw/channel/Sportklub[Serbia]"
+      },
+      {
+        "cha_Name": "Sportklub1[Serbia]",
+        "cha_URL": "https://topembed.pw/channel/Sportklub1[Serbia]"
+      },
+      {
+        "cha_Name": "Sportklub2[Serbia]",
+        "cha_URL": "https://topembed.pw/channel/Sportklub2[Serbia]"
+      },
+      {
+        "cha_Name": "Sportklub3[Serbia]",
+        "cha_URL": "https://topembed.pw/channel/Sportklub3[Serbia]"
+      },
+      {
+        "cha_Name": "Sportklub4[Serbia]",
+        "cha_URL": "https://topembed.pw/channel/Sportklub4[Serbia]"
+      },
+      {
+        "cha_Name": "SuperSportAction[SouthAfrica]",
+        "cha_URL": "https://topembed.pw/channel/SuperSportAction[SouthAfrica]"
+      },
+      {
+        "cha_Name": "SuperSportCricket[SouthAfrica]",
+        "cha_URL": "https://topembed.pw/channel/SuperSportCricket[SouthAfrica]"
+      },
+      {
+        "cha_Name": "SuperSportFootball[SouthAfrica]",
+        "cha_URL": "https://topembed.pw/channel/SuperSportFootball[SouthAfrica]"
+      },
+      {
+        "cha_Name": "SuperSportGolf[SouthAfrica]",
+        "cha_URL": "https://topembed.pw/channel/SuperSportGolf[SouthAfrica]"
+      },
+      {
+        "cha_Name": "SuperSportGrandstand[SouthAfrica]",
+        "cha_URL": "https://topembed.pw/channel/SuperSportGrandstand[SouthAfrica]"
+      },
+      {
+        "cha_Name": "SuperSportLaLiga[SouthAfrica]",
+        "cha_URL": "https://topembed.pw/channel/SuperSportLaLiga[SouthAfrica]"
+      },
+      {
+        "cha_Name": "SuperSportMotorsport[SouthAfrica]",
+        "cha_URL": "https://topembed.pw/channel/SuperSportMotorsport[SouthAfrica]"
+      },
+      {
+        "cha_Name": "SuperSportPSL[SouthAfrica]",
+        "cha_URL": "https://topembed.pw/channel/SuperSportPSL[SouthAfrica]"
+      },
+      {
+        "cha_Name": "SuperSportPremierLeague[SouthAfrica]",
+        "cha_URL": "https://topembed.pw/channel/SuperSportPremierLeague[SouthAfrica]"
+      },
+      {
+        "cha_Name": "SuperSportRugby[SouthAfrica]",
+        "cha_URL": "https://topembed.pw/channel/SuperSportRugby[SouthAfrica]"
+      },
+      {
+        "cha_Name": "SuperSportTennis[SouthAfrica]",
+        "cha_URL": "https://topembed.pw/channel/SuperSportTennis[SouthAfrica]"
+      },
+      {
+        "cha_Name": "SuperSportVariety1[SouthAfrica]",
+        "cha_URL": "https://topembed.pw/channel/SuperSportVariety1[SouthAfrica]"
+      },
+      {
+        "cha_Name": "SuperSportVariety2[SouthAfrica]",
+        "cha_URL": "https://topembed.pw/channel/SuperSportVariety2[SouthAfrica]"
+      },
+      {
+        "cha_Name": "SuperSportVariety3[SouthAfrica]",
+        "cha_URL": "https://topembed.pw/channel/SuperSportVariety3[SouthAfrica]"
+      },
+      {
+        "cha_Name": "SuperSportVariety4[SouthAfrica]",
+        "cha_URL": "https://topembed.pw/channel/SuperSportVariety4[SouthAfrica]"
+      },
+      {
+        "cha_Name": "TSN1[Canada]",
+        "cha_URL": "https://topembed.pw/channel/TSN1[Canada]"
+      },
+      {
+        "cha_Name": "TSN2[Canada]",
+        "cha_URL": "https://topembed.pw/channel/TSN2[Canada]"
+      },
+      {
+        "cha_Name": "TSN3[Canada]",
+        "cha_URL": "https://topembed.pw/channel/TSN3[Canada]"
+      },
+      {
+        "cha_Name": "TSN4[Canada]",
+        "cha_URL": "https://topembed.pw/channel/TSN4[Canada]"
+      },
+      {
+        "cha_Name": "TSN5[Canada]",
+        "cha_URL": "https://topembed.pw/channel/TSN5[Canada]"
+      },
+      {
+        "cha_Name": "TennisChannel[USA]",
+        "cha_URL": "https://topembed.pw/channel/TennisChannel[USA]"
+      },
+      {
+        "cha_Name": "TennisChannelPlus1[USA]",
+        "cha_URL": "https://topembed.pw/channel/TennisChannelPlus1[USA]"
+      },
+      {
+        "cha_Name": "TennisChannelPlus10[USA]",
+        "cha_URL": "https://topembed.pw/channel/TennisChannelPlus10[USA]"
+      },
+      {
+        "cha_Name": "TennisChannelPlus11[USA]",
+        "cha_URL": "https://topembed.pw/channel/TennisChannelPlus11[USA]"
+      },
+      {
+        "cha_Name": "TennisChannelPlus12[USA]",
+        "cha_URL": "https://topembed.pw/channel/TennisChannelPlus12[USA]"
+      },
+      {
+        "cha_Name": "TennisChannelPlus13[USA]",
+        "cha_URL": "https://topembed.pw/channel/TennisChannelPlus13[USA]"
+      },
+      {
+        "cha_Name": "TennisChannelPlus14[USA]",
+        "cha_URL": "https://topembed.pw/channel/TennisChannelPlus14[USA]"
+      },
+      {
+        "cha_Name": "TennisChannelPlus2[USA]",
+        "cha_URL": "https://topembed.pw/channel/TennisChannelPlus2[USA]"
+      },
+      {
+        "cha_Name": "TennisChannelPlus3[USA]",
+        "cha_URL": "https://topembed.pw/channel/TennisChannelPlus3[USA]"
+      },
+      {
+        "cha_Name": "TennisChannelPlus4[USA]",
+        "cha_URL": "https://topembed.pw/channel/TennisChannelPlus4[USA]"
+      },
+      {
+        "cha_Name": "TennisChannelPlus5[USA]",
+        "cha_URL": "https://topembed.pw/channel/TennisChannelPlus5[USA]"
+      },
+      {
+        "cha_Name": "TennisChannelPlus6[USA]",
+        "cha_URL": "https://topembed.pw/channel/TennisChannelPlus6[USA]"
+      },
+      {
+        "cha_Name": "TennisChannelPlus7[USA]",
+        "cha_URL": "https://topembed.pw/channel/TennisChannelPlus7[USA]"
+      },
+      {
+        "cha_Name": "TennisChannelPlus8[USA]",
+        "cha_URL": "https://topembed.pw/channel/TennisChannelPlus8[USA]"
+      },
+      {
+        "cha_Name": "TennisChannelPlus9[USA]",
+        "cha_URL": "https://topembed.pw/channel/TennisChannelPlus9[USA]"
+      },
+      {
+        "cha_Name": "USANetwork[USA]",
+        "cha_URL": "https://topembed.pw/channel/USANetwork[USA]"
+      },
+      {
+        "cha_Name": "DAZN1Deutschland[Germany]",
+        "cha_URL": "https://topembed.pw/channel/DAZN1Deutschland[Germany]"
+      },
+      {
+        "cha_Name": "DAZN2Deutschland[Germany]",
+        "cha_URL": "https://topembed.pw/channel/DAZN2Deutschland[Germany]"
+      },
+      {
+        "cha_Name": "Antena1[Romania]",
+        "cha_URL": "https://topembed.pw/channel/Antena1[Romania]"
+      },
+      {
+        "cha_Name": "YES[USA]",
+        "cha_URL": "https://topembed.pw/channel/YES[USA]"
+      },
+      {
+        "cha_Name": "SportklubFight[Serbia]",
+        "cha_URL": "https://topembed.pw/channel/SportklubFight[Serbia]"
+      },
+      {
+        "cha_Name": "MLBNetwork[USA]",
+        "cha_URL": "https://topembed.pw/channel/MLBNetwork[USA]"
+      },
+      {
+        "cha_Name": "BallySportsDetroit[USA]",
+        "cha_URL": "https://topembed.pw/channel/BallySportsDetroit[USA]"
+      },
+      {
+        "cha_Name": "BallySportsFlorida[USA]",
+        "cha_URL": "https://topembed.pw/channel/BallySportsFlorida[USA]"
+      },
+      {
+        "cha_Name": "BallySportsSun[USA]",
+        "cha_URL": "https://topembed.pw/channel/BallySportsSun[USA]"
+      },
+      {
+        "cha_Name": "BallySportsSanDiego[USA]",
+        "cha_URL": "https://topembed.pw/channel/BallySportsSanDiego[USA]"
+      },
+      {
+        "cha_Name": "BallySportsMidwest[USA]",
+        "cha_URL": "https://topembed.pw/channel/BallySportsMidwest[USA]"
+      },
+      {
+        "cha_Name": "BallySportsNorth[USA]",
+        "cha_URL": "https://topembed.pw/channel/BallySportsNorth[USA]"
+      },
+      {
+        "cha_Name": "BallySportsEast[USA]",
+        "cha_URL": "https://topembed.pw/channel/BallySportsEast[USA]"
+      },
+      {
+        "cha_Name": "BallySportsWest[USA]",
+        "cha_URL": "https://topembed.pw/channel/BallySportsWest[USA]"
+      },
+      {
+        "cha_Name": "BallySportsOhio[USA]",
+        "cha_URL": "https://topembed.pw/channel/BallySportsOhio[USA]"
+      },
+      {
+        "cha_Name": "BallySportsOklahoma[USA]",
+        "cha_URL": "https://topembed.pw/channel/BallySportsOklahoma[USA]"
+      },
+      {
+        "cha_Name": "SportsnetOne[Canada]",
+        "cha_URL": "https://topembed.pw/channel/SportsnetOne[Canada]"
+      },
+      {
+        "cha_Name": "SportsnetPacific[Canada]",
+        "cha_URL": "https://topembed.pw/channel/SportsnetPacific[Canada]"
+      },
+      {
+        "cha_Name": "SportsnetOntario[Canada]",
+        "cha_URL": "https://topembed.pw/channel/SportsnetOntario[Canada]"
+      },
+      {
+        "cha_Name": "SportsnetEast[Canada]",
+        "cha_URL": "https://topembed.pw/channel/SportsnetEast[Canada]"
+      },
+      {
+        "cha_Name": "SportsnetWest[Canada]",
+        "cha_URL": "https://topembed.pw/channel/SportsnetWest[Canada]"
+      },
+      {
+        "cha_Name": "SportsnetWorld[Canada]",
+        "cha_URL": "https://topembed.pw/channel/SportsnetWorld[Canada]"
+      },
+      {
+        "cha_Name": "Sportsnet360[Canada]",
+        "cha_URL": "https://topembed.pw/channel/Sportsnet360[Canada]"
+      },
+      {
+        "cha_Name": "AeNetworks[USA]",
+        "cha_URL": "https://topembed.pw/channel/AeNetworks[USA]"
+      },
+      {
+        "cha_Name": "AbcTv[USA]",
+        "cha_URL": "https://topembed.pw/channel/AbcTv[USA]"
+      },
+      {
+        "cha_Name": "AMC[USA]",
+        "cha_URL": "https://topembed.pw/channel/AMC[USA]"
+      },
+      {
+        "cha_Name": "AnimalPlanet[USA]",
+        "cha_URL": "https://topembed.pw/channel/AnimalPlanet[USA]"
+      },
+      {
+        "cha_Name": "BBCAmerica[USA]",
+        "cha_URL": "https://topembed.pw/channel/BBCAmerica[USA]"
+      },
+      {
+        "cha_Name": "BET[USA]",
+        "cha_URL": "https://topembed.pw/channel/BET[USA]"
+      },
+      {
+        "cha_Name": "DisneyChannel[USA]",
+        "cha_URL": "https://topembed.pw/channel/DisneyChannel[USA]"
+      },
+      {
+        "cha_Name": "FoxNews[USA]",
+        "cha_URL": "https://topembed.pw/channel/FoxNews[USA]"
+      },
+      {
+        "cha_Name": "CBSSN[USA]",
+        "cha_URL": "https://topembed.pw/channel/CBSSN[USA]"
+      },
+      {
+        "cha_Name": "BravoTV[USA]",
+        "cha_URL": "https://topembed.pw/channel/BravoTV[USA]"
+      },
+      {
+        "cha_Name": "CNN[USA]",
+        "cha_URL": "https://topembed.pw/channel/CNN[USA]"
+      },
+      {
+        "cha_Name": "InvestigationDiscovery[USA]",
+        "cha_URL": "https://topembed.pw/channel/InvestigationDiscovery[USA]"
+      },
+      {
+        "cha_Name": "Lifetime[USA]",
+        "cha_URL": "https://topembed.pw/channel/Lifetime[USA]"
+      },
+      {
+        "cha_Name": "History[USA]",
+        "cha_URL": "https://topembed.pw/channel/History[USA]"
+      },
+      {
+        "cha_Name": "EEntertainement[USA]",
+        "cha_URL": "https://topembed.pw/channel/EEntertainement[USA]"
+      },
+      {
+        "cha_Name": "DisneyJR[USA]",
+        "cha_URL": "https://topembed.pw/channel/DisneyJR[USA]"
+      },
+      {
+        "cha_Name": "ComedyCentral[USA]",
+        "cha_URL": "https://topembed.pw/channel/ComedyCentral[USA]"
+      },
+      {
+        "cha_Name": "DestinationAmerica[USA]",
+        "cha_URL": "https://topembed.pw/channel/DestinationAmerica[USA]"
+      },
+      {
+        "cha_Name": "DiscoveryChannel[USA]",
+        "cha_URL": "https://topembed.pw/channel/DiscoveryChannel[USA]"
+      },
+      {
+        "cha_Name": "Boomerang[USA]",
+        "cha_URL": "https://topembed.pw/channel/Boomerang[USA]"
+      },
+      {
+        "cha_Name": "FoodNetwork[USA]",
+        "cha_URL": "https://topembed.pw/channel/FoodNetwork[USA]"
+      },
+      {
+        "cha_Name": "Freeform[USA]",
+        "cha_URL": "https://topembed.pw/channel/Freeform[USA]"
+      },
+      {
+        "cha_Name": "CNBC[USA]",
+        "cha_URL": "https://topembed.pw/channel/CNBC[USA]"
+      },
+      {
+        "cha_Name": "CW[USA]",
+        "cha_URL": "https://topembed.pw/channel/CW[USA]"
+      },
+      {
+        "cha_Name": "HLN[USA]",
+        "cha_URL": "https://topembed.pw/channel/HLN[USA]"
+      },
+      {
+        "cha_Name": "LifetimeMoviesNetwork[USA]",
+        "cha_URL": "https://topembed.pw/channel/LifetimeMoviesNetwork[USA]"
+      },
+      {
+        "cha_Name": "ESPNNews[USA]",
+        "cha_URL": "https://topembed.pw/channel/ESPNNews[USA]"
+      },
+      {
+        "cha_Name": "Fox[USA]",
+        "cha_URL": "https://topembed.pw/channel/Fox[USA]"
+      },
+      {
+        "cha_Name": "Cinemax[USA]",
+        "cha_URL": "https://topembed.pw/channel/Cinemax[USA]"
+      },
+      {
+        "cha_Name": "MSNBC[USA]",
+        "cha_URL": "https://topembed.pw/channel/MSNBC[USA]"
+      },
+      {
+        "cha_Name": "NationalGeographic[USA]",
+        "cha_URL": "https://topembed.pw/channel/NationalGeographic[USA]"
+      },
+      {
+        "cha_Name": "Syfy[USA]",
+        "cha_URL": "https://topembed.pw/channel/Syfy[USA]"
+      },
+      {
+        "cha_Name": "Wnyw[USA]",
+        "cha_URL": "https://topembed.pw/channel/Wnyw[USA]"
+      },
+      {
+        "cha_Name": "CBS[USA]",
+        "cha_URL": "https://topembed.pw/channel/CBS[USA]"
+      },
+      {
+        "cha_Name": "Univision[USA]",
+        "cha_URL": "https://topembed.pw/channel/Univision[USA]"
+      },
+      {
+        "cha_Name": "TvLand[USA]",
+        "cha_URL": "https://topembed.pw/channel/TvLand[USA]"
+      },
+      {
+        "cha_Name": "TLC[USA]",
+        "cha_URL": "https://topembed.pw/channel/TLC[USA]"
+      },
+      {
+        "cha_Name": "HGTV[USA]",
+        "cha_URL": "https://topembed.pw/channel/HGTV[USA]"
+      },
+      {
+        "cha_Name": "NBC[USA]",
+        "cha_URL": "https://topembed.pw/channel/NBC[USA]"
+      },
+      {
+        "cha_Name": "HBO[USA]",
+        "cha_URL": "https://topembed.pw/channel/HBO[USA]"
+      },
+      {
+        "cha_Name": "Showtime[USA]",
+        "cha_URL": "https://topembed.pw/channel/Showtime[USA]"
+      },
+      {
+        "cha_Name": "Nicktoons[USA]",
+        "cha_URL": "https://topembed.pw/channel/Nicktoons[USA]"
+      },
+      {
+        "cha_Name": "ABCNews[USA]",
+        "cha_URL": "https://topembed.pw/channel/ABCNews[USA]"
+      },
+      {
+        "cha_Name": "NickelodeonTV[USA]",
+        "cha_URL": "https://topembed.pw/channel/NickelodeonTV[USA]"
+      },
+      {
+        "cha_Name": "HallmarkMoviesMysteriesTV[USA]",
+        "cha_URL": "https://topembed.pw/channel/HallmarkMoviesMysteriesTV[USA]"
+      },
+      {
+        "cha_Name": "Hallmark[USA]",
+        "cha_URL": "https://topembed.pw/channel/Hallmark[USA]"
+      },
+      {
+        "cha_Name": "ProTV[Romania]",
+        "cha_URL": "https://topembed.pw/channel/ProTV[Romania]"
+      },
+      {
+        "cha_Name": "NBCSportsBayArea[USA]",
+        "cha_URL": "https://topembed.pw/channel/NBCSportsBayArea[USA]"
+      },
+      {
+        "cha_Name": "YesSport1[Israel]",
+        "cha_URL": "https://topembed.pw/channel/YesSport1[Israel]"
+      },
+      {
+        "cha_Name": "YesSport2[Israel]",
+        "cha_URL": "https://topembed.pw/channel/YesSport2[Israel]"
+      },
+      {
+        "cha_Name": "YesSport3[Israel]",
+        "cha_URL": "https://topembed.pw/channel/YesSport3[Israel]"
+      },
+      {
+        "cha_Name": "YesSport4[Israel]",
+        "cha_URL": "https://topembed.pw/channel/YesSport4[Israel]"
+      },
+      {
+        "cha_Name": "YesSport5[Israel]",
+        "cha_URL": "https://topembed.pw/channel/YesSport5[Israel]"
+      },
+      {
+        "cha_Name": "BBCOne[UK]",
+        "cha_URL": "https://topembed.pw/channel/BBCOne[UK]"
+      },
+      {
+        "cha_Name": "BBCTwo[UK]",
+        "cha_URL": "https://topembed.pw/channel/BBCTwo[UK]"
+      },
+      {
+        "cha_Name": "BBCThree[UK]",
+        "cha_URL": "https://topembed.pw/channel/BBCThree[UK]"
+      },
+      {
+        "cha_Name": "BBCFour[UK]",
+        "cha_URL": "https://topembed.pw/channel/BBCFour[UK]"
+      },
+      {
+        "cha_Name": "Fox501[Australia]",
+        "cha_URL": "https://topembed.pw/channel/Fox501[Australia]"
+      },
+      {
+        "cha_Name": "Fox502[Australia]",
+        "cha_URL": "https://topembed.pw/channel/Fox502[Australia]"
+      },
+      {
+        "cha_Name": "Fox503[Australia]",
+        "cha_URL": "https://topembed.pw/channel/Fox503[Australia]"
+      },
+      {
+        "cha_Name": "Fox504[Australia]",
+        "cha_URL": "https://topembed.pw/channel/Fox504[Australia]"
+      },
+      {
+        "cha_Name": "Fox505[Australia]",
+        "cha_URL": "https://topembed.pw/channel/Fox505[Australia]"
+      },
+      {
+        "cha_Name": "Fox506[Australia]",
+        "cha_URL": "https://topembed.pw/channel/Fox506[Australia]"
+      },
+      {
+        "cha_Name": "Fox507[Australia]",
+        "cha_URL": "https://topembed.pw/channel/Fox507[Australia]"
+      },
+      {
+        "cha_Name": "BallySportsSanDiego[USA]",
+        "cha_URL": "https://topembed.pw/channel/BallySportsSanDiego[USA]"
+      },
+      {
+        "cha_Name": "ServusTV[Germany]",
+        "cha_URL": "https://topembed.pw/channel/ServusTV[Germany]"
+      },
+      {
+        "cha_Name": "TBS[USA]",
+        "cha_URL": "https://topembed.pw/channel/TBS[USA]"
+      },
+      {
+        "cha_Name": "MovistarDeportes[Spain]",
+        "cha_URL": "https://topembed.pw/channel/MovistarDeportes[Spain]"
+      },
+      {
+        "cha_Name": "EllasVamos[Spain]",
+        "cha_URL": "https://topembed.pw/channel/EllasVamos[Spain]"
+      },
+      {
+        "cha_Name": "DAZN1[Spain]",
+        "cha_URL": "https://topembed.pw/channel/DAZN1[Spain]"
+      },
+      {
+        "cha_Name": "DAZN2[Spain]",
+        "cha_URL": "https://topembed.pw/channel/DAZN2[Spain]"
+      },
+      {
+        "cha_Name": "TYCSports[Argentina]",
+        "cha_URL": "https://topembed.pw/channel/TYCSports[Argentina]"
+      },
+      {
+        "cha_Name": "Caracol[Colombia]",
+        "cha_URL": "https://topembed.pw/channel/Caracol[Colombia]"
+      },
+      {
+        "cha_Name": "WINSports[Colombia]",
+        "cha_URL": "https://topembed.pw/channel/WINSports[Colombia]"
+      },
+      {
+        "cha_Name": "Ecuavisa[Ecuador]",
+        "cha_URL": "https://topembed.pw/channel/Ecuavisa[Ecuador]"
+      },
+      {
+        "cha_Name": "ESPN[Argentina]",
+        "cha_URL": "https://topembed.pw/channel/ESPN[Argentina]"
+      },
+      {
+        "cha_Name": "ESPN2[Argentina]",
+        "cha_URL": "https://topembed.pw/channel/ESPN2[Argentina]"
+      },
+      {
+        "cha_Name": "ESPN3[Argentina]",
+        "cha_URL": "https://topembed.pw/channel/ESPN3[Argentina]"
+      },
+      {
+        "cha_Name": "ESPNPremium[Argentina]",
+        "cha_URL": "https://topembed.pw/channel/ESPNPremium[Argentina]"
+      },
+      {
+        "cha_Name": "DirecTV[Ecuador]",
+        "cha_URL": "https://topembed.pw/channel/DirecTV[Ecuador]"
+      },
+      {
+        "cha_Name": "GolTV[Ecuador]",
+        "cha_URL": "https://topembed.pw/channel/GolTV[Ecuador]"
+      },
+      {
+        "cha_Name": "AxsTv[USA]",
+        "cha_URL": "https://topembed.pw/channel/AxsTv[USA]"
+      },
+      {
+        "cha_Name": "GOL[Peru]",
+        "cha_URL": "https://topembed.pw/channel/GOL[Peru]"
+      },
+      {
+        "cha_Name": "TNT[USA]",
+        "cha_URL": "https://topembed.pw/channel/TNT[USA]"
+      },
+      {
+        "cha_Name": "TUDN[Mexico]",
+        "cha_URL": "https://topembed.pw/channel/TUDN[Mexico]"
+      },
+      {
+        "cha_Name": "WillowXtra[USA]",
+        "cha_URL": "https://topembed.pw/channel/WillowXtra[USA]"
+      },
+      {
+        "cha_Name": "ESPNDeportes[Mexico]",
+        "cha_URL": "https://topembed.pw/channel/ESPNDeportes[Mexico]"
+      },
+      {
+        "cha_Name": "Premiere1[Brasil]",
+        "cha_URL": "https://topembed.pw/channel/Premiere1[Brasil]"
+      },
+      {
+        "cha_Name": "Premiere2[Brasil]",
+        "cha_URL": "https://topembed.pw/channel/Premiere2[Brasil]"
+      },
+      {
+        "cha_Name": "Premiere3[Brasil]",
+        "cha_URL": "https://topembed.pw/channel/Premiere3[Brasil]"
+      },
+      {
+        "cha_Name": "Eurosport1[Italy]",
+        "cha_URL": "https://topembed.pw/channel/Eurosport1[Italy]"
+      },
+      {
+        "cha_Name": "Eurosport2[Italy]",
+        "cha_URL": "https://topembed.pw/channel/Eurosport2[Italy]"
+      },
+      {
+        "cha_Name": "CartoonNetwork[Italy]",
+        "cha_URL": "https://topembed.pw/channel/CartoonNetwork[Italy]"
+      },
+      {
+        "cha_Name": "CartoonNetworkItaly[Italy]",
+        "cha_URL": "https://topembed.pw/channel/CartoonNetworkItaly[Italy]"
+      },
+      {
+        "cha_Name": "Boomerang[Italy]",
+        "cha_URL": "https://topembed.pw/channel/Boomerang[Italy]"
+      },
+      {
+        "cha_Name": "History[Italy]",
+        "cha_URL": "https://topembed.pw/channel/History[Italy]"
+      },
+      {
+        "cha_Name": "WweNetwork[USA]",
+        "cha_URL": "https://topembed.pw/channel/WweNetwork[USA]"
+      },
+      {
+        "cha_Name": "TUDN[USA]",
+        "cha_URL": "https://topembed.pw/channel/TUDN[USA]"
+      },
+      {
+        "cha_Name": "NBCOlympics1[USA]",
+        "cha_URL": "https://topembed.pw/channel/NBCOlympics1[USA]"
+      },
+      {
+        "cha_Name": "NBCOlympics2[USA]",
+        "cha_URL": "https://topembed.pw/channel/NBCOlympics2[USA]"
+      },
+      {
+        "cha_Name": "Eurosport2[Spain]",
+        "cha_URL": "https://topembed.pw/channel/Eurosport2[Spain]"
+      },
+      {
+        "cha_Name": "Eurosport2[Germany]",
+        "cha_URL": "https://topembed.pw/channel/Eurosport2[Germany]"
+      },
+      {
+        "cha_Name": "Eurosport1[Germany]",
+        "cha_URL": "https://topembed.pw/channel/Eurosport1[Germany]"
+      },
+      {
+        "cha_Name": "ESPN[Argentina]",
+        "cha_URL": "https://topembed.pw/channel/ESPN[Argentina]"
+      },
+      {
+        "cha_Name": "WapaTv[USA]",
+        "cha_URL": "https://topembed.pw/channel/WapaTv[USA]"
+      },
+      {
+        "cha_Name": "DirecTVSports[Argentina]",
+        "cha_URL": "https://topembed.pw/channel/DirecTVSports[Argentina]"
+      },
+      {
+        "cha_Name": "DirecTVSports2[Argentina]",
+        "cha_URL": "https://topembed.pw/channel/DirecTVSports2[Argentina]"
+      },
+      {
+        "cha_Name": "FOXSports2[Argentina]",
+        "cha_URL": "https://topembed.pw/channel/FOXSports2[Argentina]"
+      },
+      {
+        "cha_Name": "RTSHSport[Albania]",
+        "cha_URL": "https://topembed.pw/channel/RTSHSport[Albania]"
+      },
+      {
+        "cha_Name": "FOXSports1[Argentina]",
+        "cha_URL": "https://topembed.pw/channel/FOXSports1[Argentina]"
+      },
+      {
+        "cha_Name": "RTSH1[Albania]",
+        "cha_URL": "https://topembed.pw/channel/RTSH1[Albania]"
+      },
+      {
+        "cha_Name": "RTSH2[Albania]",
+        "cha_URL": "https://topembed.pw/channel/RTSH2[Albania]"
+      },
+      {
+        "cha_Name": "SkySport1[NewZealand]",
+        "cha_URL": "https://topembed.pw/channel/SkySport1[NewZealand]"
+      },
+      {
+        "cha_Name": "SkySport2[NewZealand]",
+        "cha_URL": "https://topembed.pw/channel/SkySport2[NewZealand]"
+      },
+      {
+        "cha_Name": "SkySport3[NewZealand]",
+        "cha_URL": "https://topembed.pw/channel/SkySport3[NewZealand]"
+      },
+      {
+        "cha_Name": "SkySport4[NewZealand]",
+        "cha_URL": "https://topembed.pw/channel/SkySport4[NewZealand]"
+      },
+      {
+        "cha_Name": "SkySport5[NewZealand]",
+        "cha_URL": "https://topembed.pw/channel/SkySport5[NewZealand]"
+      },
+      {
+        "cha_Name": "SkySport6[NewZealand]",
+        "cha_URL": "https://topembed.pw/channel/SkySport6[NewZealand]"
+      },
+      {
+        "cha_Name": "SkySport7[NewZealand]",
+        "cha_URL": "https://topembed.pw/channel/SkySport7[NewZealand]"
+      },
+      {
+        "cha_Name": "SkySport8[NewZealand]",
+        "cha_URL": "https://topembed.pw/channel/SkySport8[NewZealand]"
+      },
+      {
+        "cha_Name": "SkySport9[NewZealand]",
+        "cha_URL": "https://topembed.pw/channel/SkySport9[NewZealand]"
+      },
+      {
+        "cha_Name": "CBSSportsNetwork[USA]",
+        "cha_URL": "https://topembed.pw/channel/CBSSportsNetwork[USA]"
+      },
+      {
+        "cha_Name": "FOXSports2[Mexico]",
+        "cha_URL": "https://topembed.pw/channel/FOXSports2[Mexico]"
+      },
+      {
+        "cha_Name": "FOXSports1[Mexico]",
+        "cha_URL": "https://topembed.pw/channel/FOXSports1[Mexico]"
+      },
+      {
+        "cha_Name": "FOXSports3[Mexico]",
+        "cha_URL": "https://topembed.pw/channel/FOXSports3[Mexico]"
+      },
+      {
+        "cha_Name": "LaLigaTV[UK]",
+        "cha_URL": "https://topembed.pw/channel/LaLigaTV[UK]"
+      },
+      {
+        "cha_Name": "BeINSport1[France]",
+        "cha_URL": "https://topembed.pw/channel/BeINSport1[France]"
+      },
+      {
+        "cha_Name": "BeINSport2[France]",
+        "cha_URL": "https://topembed.pw/channel/BeINSport2[France]"
+      },
+      {
+        "cha_Name": "BeINSport3[France]",
+        "cha_URL": "https://topembed.pw/channel/BeINSport3[France]"
+      },
+      {
+        "cha_Name": "BeINSport4[France]",
+        "cha_URL": "https://topembed.pw/channel/BeINSport4[France]"
+      },
+      {
+        "cha_Name": "DAZN1UK[UK]",
+        "cha_URL": "https://topembed.pw/channel/DAZN1UK[UK]"
+      },
+      {
+        "cha_Name": "PrimaTV[Romania]",
+        "cha_URL": "https://topembed.pw/channel/PrimaTV[Romania]"
+      },
+      {
+        "cha_Name": "BBCScotland[UK]",
+        "cha_URL": "https://topembed.pw/channel/BBCScotland[UK]"
+      },
+      {
+        "cha_Name": "FoxSoccerPlus[USA]",
+        "cha_URL": "https://topembed.pw/channel/FoxSoccerPlus[USA]"
+      },
+      {
+        "cha_Name": "RallyTV[UK]",
+        "cha_URL": "https://topembed.pw/channel/RallyTV[UK]"
+      },
+      {
+        "cha_Name": "NBCSPhiladelphia[USA]",
+        "cha_URL": "https://topembed.pw/channel/NBCSPhiladelphia[USA]"
+      },
+      {
+        "cha_Name": "CBSNY[USA]",
+        "cha_URL": "https://topembed.pw/channel/CBSNY[USA]"
+      },
+      {
+        "cha_Name": "SkySportSelect[NewZealand]",
+        "cha_URL": "https://topembed.pw/channel/SkySportSelect[NewZealand]"
+      },
+      {
+        "cha_Name": "RacingTV[UK]",
+        "cha_URL": "https://topembed.pw/channel/RacingTV[UK]"
+      },
+      {
+        "cha_Name": "RTEOne[Ireland]",
+        "cha_URL": "https://topembed.pw/channel/RTEOne[Ireland]"
+      },
+      {
+        "cha_Name": "RTETwo[Ireland]",
+        "cha_URL": "https://topembed.pw/channel/RTETwo[Ireland]"
+      },
+      {
+        "cha_Name": "NBCSCalifornia[USA]",
+        "cha_URL": "https://topembed.pw/channel/NBCSCalifornia[USA]"
+      },
+      {
+        "cha_Name": "NBCSBoston[USA]",
+        "cha_URL": "https://topembed.pw/channel/NBCSBoston[USA]"
+      },
+      {
+        "cha_Name": "BeinSports1[Arab]",
+        "cha_URL": "https://topembed.pw/channel/BeinSports1[Arab]"
+      },
+      {
+        "cha_Name": "BeinSports2[Arab]",
+        "cha_URL": "https://topembed.pw/channel/BeinSports2[Arab]"
+      },
+      {
+        "cha_Name": "KHLPrime[Russia]",
+        "cha_URL": "https://topembed.pw/channel/KHLPrime[Russia]"
+      },
+      {
+        "cha_Name": "KHLTV[Russia]",
+        "cha_URL": "https://topembed.pw/channel/KHLTV[Russia]"
+      },
+      {
+        "cha_Name": "OptusSport1[Australia]",
+        "cha_URL": "https://topembed.pw/channel/OptusSport1[Australia]"
+      },
+      {
+        "cha_Name": "OptusSport2[Australia]",
+        "cha_URL": "https://topembed.pw/channel/OptusSport2[Australia]"
+      },
+      {
+        "cha_Name": "OptusSport3[Australia]",
+        "cha_URL": "https://topembed.pw/channel/OptusSport3[Australia]"
+      },
+      {
+        "cha_Name": "OptusSport4[Australia]",
+        "cha_URL": "https://topembed.pw/channel/OptusSport4[Australia]"
+      },
+      {
+        "cha_Name": "OptusSport5[Australia]",
+        "cha_URL": "https://topembed.pw/channel/OptusSport5[Australia]"
+      },
+      {
+        "cha_Name": "OptusSport6[Australia]",
+        "cha_URL": "https://topembed.pw/channel/OptusSport6[Australia]"
+      },
+      {
+        "cha_Name": "AstroCricket[Malaysia]",
+        "cha_URL": "https://topembed.pw/channel/AstroCricket[Malaysia]"
+      },
+      {
+        "cha_Name": "PeacockEPLTV[USA]",
+        "cha_URL": "https://topembed.pw/channel/PeacockEPLTV[USA]"
+      },
+      {
+        "cha_Name": "PeacockEPL1[USA]",
+        "cha_URL": "https://topembed.pw/channel/PeacockEPL1[USA]"
+      },
+      {
+        "cha_Name": "PeacockEPL2[USA]",
+        "cha_URL": "https://topembed.pw/channel/PeacockEPL2[USA]"
+      },
+      {
+        "cha_Name": "PeacockEPL3[USA]",
+        "cha_URL": "https://topembed.pw/channel/PeacockEPL3[USA]"
+      },
+      {
+        "cha_Name": "PeacockEPL4[USA]",
+        "cha_URL": "https://topembed.pw/channel/PeacockEPL4[USA]"
+      },
+      {
+        "cha_Name": "PeacockEPL5[USA]",
+        "cha_URL": "https://topembed.pw/channel/PeacockEPL5[USA]"
+      },
+      {
+        "cha_Name": "BBCNEWS24[UK]",
+        "cha_URL": "https://topembed.pw/channel/BBCNEWS24[UK]"
+      },
+      {
+        "cha_Name": "RMCSport1[France]",
+        "cha_URL": "https://topembed.pw/channel/RMCSport1[France]"
+      },
+      {
+        "cha_Name": "Premiersport1[Ireland]",
+        "cha_URL": "https://topembed.pw/channel/Premiersport1[Ireland]"
+      },
+      {
+        "cha_Name": "Combate[Brazil]",
+        "cha_URL": "https://topembed.pw/channel/Combate[Brazil]"
+      },
+      {
+        "cha_Name": "ESPN1[Netherlands]",
+        "cha_URL": "https://topembed.pw/channel/ESPN1[Netherlands]"
+      },
+      {
+        "cha_Name": "ESPN2[Netherlands]",
+        "cha_URL": "https://topembed.pw/channel/ESPN2[Netherlands]"
+      },
+      {
+        "cha_Name": "ESPN3[Netherlands]",
+        "cha_URL": "https://topembed.pw/channel/ESPN3[Netherlands]"
+      },
+      {
+        "cha_Name": "Blaze[UK]",
+        "cha_URL": "https://topembed.pw/channel/Blaze[UK]"
+      },
+      {
+        "cha_Name": "SupersportNews[SouthAfrica]",
+        "cha_URL": "https://topembed.pw/channel/SupersportNews[SouthAfrica]"
+      },
+      {
+        "cha_Name": "UFCFightPass[UK]",
+        "cha_URL": "https://topembed.pw/channel/UFCFightPass[UK]"
+      },
+      {
+        "cha_Name": "FloRacing[USA]",
+        "cha_URL": "https://topembed.pw/channel/FloRacing[USA]"
+      },
+      {
+        "cha_Name": "ArenaSport4[Serbia]",
+        "cha_URL": "https://topembed.pw/channel/ArenaSport4[Serbia]"
+      },
+      {
+        "cha_Name": "ACCNetwork[USA]",
+        "cha_URL": "https://topembed.pw/channel/ACCNetwork[USA]"
+      },
+      {
+        "cha_Name": "ArenaSport3[Serbia]",
+        "cha_URL": "https://topembed.pw/channel/ArenaSport3[Serbia]"
+      },
+      {
+        "cha_Name": "ArenaSport8[Serbia]",
+        "cha_URL": "https://topembed.pw/channel/ArenaSport8[Serbia]"
+      },
+      {
+        "cha_Name": "ArenaPremium1[Serbia]",
+        "cha_URL": "https://topembed.pw/channel/ArenaPremium1[Serbia]"
+      },
+      {
+        "cha_Name": "CosmoteSport1[Greece]",
+        "cha_URL": "https://topembed.pw/channel/CosmoteSport1[Greece]"
+      },
+      {
+        "cha_Name": "CosmoteSport2[Greece]",
+        "cha_URL": "https://topembed.pw/channel/CosmoteSport2[Greece]"
+      },
+      {
+        "cha_Name": "CosmoteSport3[Greece]",
+        "cha_URL": "https://topembed.pw/channel/CosmoteSport3[Greece]"
+      },
+      {
+        "cha_Name": "ArenaSport2[Serbia]",
+        "cha_URL": "https://topembed.pw/channel/ArenaSport2[Serbia]"
+      },
+      {
+        "cha_Name": "ArenaSport5[Serbia]",
+        "cha_URL": "https://topembed.pw/channel/ArenaSport5[Serbia]"
+      },
+      {
+        "cha_Name": "ArenaPremium3[Serbia]",
+        "cha_URL": "https://topembed.pw/channel/ArenaPremium3[Serbia]"
+      },
+      {
+        "cha_Name": "BeinSportsMena1[UK]",
+        "cha_URL": "https://topembed.pw/channel/BeinSportsMena1[UK]"
+      },
+      {
+        "cha_Name": "VTM2[Belgium]",
+        "cha_URL": "https://topembed.pw/channel/VTM2[Belgium]"
+      },
+      {
+        "cha_Name": "CanalSport[France]",
+        "cha_URL": "https://topembed.pw/channel/CanalSport[France]"
+      },
+      {
+        "cha_Name": "BeinSports3[France]",
+        "cha_URL": "https://topembed.pw/channel/BeinSports3[France]"
+      },
+      {
+        "cha_Name": "Film4[UK]",
+        "cha_URL": "https://topembed.pw/channel/Film4[UK]"
+      },
+      {
+        "cha_Name": "NFL09[US]",
+        "cha_URL": "https://topembed.pw/channel/NFL09[US]"
+      },
+      {
+        "cha_Name": "MAVTV[USA]",
+        "cha_URL": "https://topembed.pw/channel/MAVTV[USA]"
+      },
+      {
+        "cha_Name": "SportsnetOntario[Canada]",
+        "cha_URL": "https://topembed.pw/channel/SportsnetOntario[Canada]"
+      },
+      {
+        "cha_Name": "CNNnews[USA]",
+        "cha_URL": "https://topembed.pw/channel/CNNnews[USA]"
+      },
+      {
+        "cha_Name": "DiemaSport2[Bulgaria]",
+        "cha_URL": "https://topembed.pw/channel/DiemaSport2[Bulgaria]"
+      },
+      {
+        "cha_Name": "SupersportsBlitz[SouthAfrica]",
+        "cha_URL": "https://topembed.pw/channel/SupersportsBlitz[SouthAfrica]"
+      },
+      {
+        "cha_Name": "WillowTV[USA]",
+        "cha_URL": "https://topembed.pw/channel/WillowTV[USA]"
+      },
+      {
+        "cha_Name": "BeINSport4max[France]",
+        "cha_URL": "https://topembed.pw/channel/BeINSport4max[France]"
+      },
+      {
+        "cha_Name": "WillovTV[USA]",
+        "cha_URL": "https://topembed.pw/channel/WillovTV[USA]"
+      },
+      {
+        "cha_Name": "TV3[Denmark]",
+        "cha_URL": "https://topembed.pw/channel/TV3[Denmark]"
+      },
+      {
+        "cha_Name": "PDCTV[USA]",
+        "cha_URL": "https://topembed.pw/channel/PDCTV[USA]"
+      },
+      {
+        "cha_Name": "SkyDiscoveryHD[UK]",
+        "cha_URL": "https://topembed.pw/channel/SkyDiscoveryHD[UK]"
+      },
+      {
+        "cha_Name": "FoxSports1Backup[USA]",
+        "cha_URL": "https://topembed.pw/channel/FoxSports1Backup[USA]"
+      },
+      {
+        "cha_Name": "SkySportsCricket[UK]",
+        "cha_URL": "https://topembed.pw/channel/SkySportsCricket[UK]"
+      },
+      {
+        "cha_Name": "ViaplaySports1[UK]",
+        "cha_URL": "https://topembed.pw/channel/ViaplaySports1[UK]"
+      },
+      {
+        "cha_Name": "ViaplaySports2[UK]",
+        "cha_URL": "https://topembed.pw/channel/ViaplaySports2[UK]"
+      },
+      {
+        "cha_Name": "OutdoorChannel[USA]",
+        "cha_URL": "https://topembed.pw/channel/OutdoorChannel[USA]"
+      },
+      {
+        "cha_Name": "MASN[USA]",
+        "cha_URL": "https://topembed.pw/channel/MASN[USA]"
+      },
+      {
+        "cha_Name": "FXX[USA]",
+        "cha_URL": "https://topembed.pw/channel/FXX[USA]"
+      },
+      {
+        "cha_Name": "PATV[Pakistan]",
+        "cha_URL": "https://topembed.pw/channel/PATV[Pakistan]"
+      }
+    ]
+}
