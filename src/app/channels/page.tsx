@@ -46,12 +46,14 @@ export default function Channels() {
       </Head>
       <div>
         <div className="container">
-          <Image
-            src="/slogan.png"
-            alt="Centered Image"
-            width={500}
-            height={300}
-          />
+          <Link href="/">
+            <Image
+              src="/slogan.png"
+              alt="Centered Image"
+              width={500}
+              height={300}
+            />
+          </Link>
         </div>
         {/* Filter Input */}
         <input
@@ -122,6 +124,10 @@ export default function Channels() {
             border: 1px solid #ccc;
           }
         `}</style>
+        <footer>
+          <p>casadelpovo.uk does not host any of the live stream videos playing on this site. please contact video hosting provider or media poster for takedown or any other complaints<br>
+          <a href="mailto:hege@example.com"></a></p>
+        </footer>
       </div>
     </>
   );
