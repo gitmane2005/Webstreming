@@ -4,6 +4,7 @@ import channelsData from "./channels.json"
 import React, { useState } from "react";
 import Image from "next/image";
 import Head from "next/head";
+import Link from "next/link";
 
 export default function Channels() {
   // State to track the filter word
@@ -125,8 +126,9 @@ export default function Channels() {
           }
         `}</style>
         <footer>
-          <p>casadelpovo.uk does not host any of the live stream videos playing on this site. please contact video hosting provider or media poster for takedown or any other complaints<br>
-          <a href="mailto:hege@example.com"></a></p>
+          <p>
+            casadelpovo.uk does not host any of the live stream videos playing on this site. please contact video hosting provider or media poster for takedown or any other complaints
+          </p>
         </footer>
       </div>
     </>
