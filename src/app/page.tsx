@@ -38,7 +38,14 @@ export default function Home() {
           min-height: 75vh; /* Make container full height to center vertically */
         }
       `}</style>
-
-    </div>
+    <footer>
+      <p>
+        casadelpovo.uk is only availeble on useres loging from Portugal. If go abroad use a VPN.
+      </p>
+      <p>
+        casadelpovo.uk does not host any of the live stream videos playing on this site. please contact video hosting provider or media poster for takedown or any other complaints
+      </p>
+    </footer>
+  </div>
   );
 }
