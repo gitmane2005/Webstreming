@@ -24,6 +24,7 @@ export default function Home() {
           />
         </Link>
    </div>
+
     <style>{`
         .wrapper {
           display: flex;
@@ -37,7 +38,13 @@ export default function Home() {
           align-items: center; /* Vertically center */
           min-height: 75vh; /* Make container full height to center vertically */
         }
-      `}</style>
+      `}
+    </style>
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
     <footer>
       <p>
         casadelpovo.uk is only availeble on useres loging from Portugal. If go abroad use a VPN.
