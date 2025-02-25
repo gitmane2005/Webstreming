@@ -13,7 +13,7 @@ export default function Home() {
         height={100}
       />
     </div>
-    <div style={{ display: 'flex', justifyContent: 'center' }}>
+    <div style={{ display: 'flex', justifyContent: 'center' , marginBottom: '10%'}}>
       <Link href="/channels">
         <Image
           src="/channels.png"
@@ -23,33 +23,26 @@ export default function Home() {
           height={30}
           />
         </Link>
-   </div>
-
+    </div>
     <style>{`
         .wrapper {
           display: flex;
           flex-direction: column;
           justify-content: center;
           align-items: center;
+          min-height: 100vh;
         }
         .container {
           display: flex;
           justify-content: center; /* Horizontally center */
           align-items: center; /* Vertically center */
-          min-height: 75vh; /* Make container full height to center vertically */
+          flex-grow: 1;
         }
       `}
     </style>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
     <footer>
       <p>
-        casadelpovo.uk is only availeble on useres loging from Portugal. If go abroad use a VPN.
-      </p>
-      <p>
+        casadelpovo.uk is only available to users logging in from Portugal.<br></br>
         casadelpovo.uk does not host any of the live stream videos playing on this site. please contact video hosting provider or media poster for takedown or any other complaints
       </p>
     </footer>
