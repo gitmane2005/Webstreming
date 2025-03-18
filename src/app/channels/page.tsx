@@ -5,6 +5,8 @@ import React, { useState } from "react";
 import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
+import StreamPage from "./channel/stream.tsx"
+
 
 export default function Channels() {
   // State to track the filter word
@@ -70,8 +72,8 @@ export default function Channels() {
           {filteredChannels.length > 0 ? (
             filteredChannels.map((channel, index) => (
               <div key={index}
-      className="channel-box"
-      onClick={() => handleChannelClick(channel.cha_URL)}>
+                  className="channel-box"
+                  onClick={() => handleChannelClick(<StreamPage url={data.channel.url}/>)}>
                 <h3 className="channel-name">{channel.cha_Name}</h3>
               </div>
             ))

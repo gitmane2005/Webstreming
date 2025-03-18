@@ -14,7 +14,7 @@ export default function Home() {
       />
     </div>
     <div style={{ display: 'flex', justifyContent: 'center' }}>
-      <Link href="/channels">
+      <Link href="/channels/page.tsx">
         <Image
           src="/channels.png"
           alt="Centered Channels"
