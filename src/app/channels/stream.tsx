@@ -1,29 +1,24 @@
 "use client";
 
-import React, { useState } from "react";
+import { useRouter } from "next/router";
 
+export default function Stream() {
+  const router = useRouter();
+  const { url } = router.query; // Extract 'url' query parameter
 
-export default function stream(url) {
-    return(
-        `<style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh; /* Full height */
-            margin: 0;
-            background-color: black; /* Optional */
-        }
-        iframe {
-            width: 640px;
-            height: 360px;
-            border: none;
-        }
-      </style>
-  
-      <iframe 
-          allow="encrypted-media" width="640" height="360" marginwidth="0" marginheight="0" 
-          scrolling="no" frameborder="0" allowfullscreen="yes" src="${props.url}">
-      `;
-    )
+  if (!url || Array.isArray(url)) {
+    return <p>No stream selected</p>; // Handle case where URL is not valid
+  }
+  return (
+    <div style={{ display: "flex", justifyContent: "center", alignItems: "center", height: "100vh", backgroundColor: "black" }}>
+      <iframe
+        src={decodeURIComponent(url)} // Use the decoded URL
+        width="640"
+        height="360"
+        frameBorder="0"
+        allowFullScreen
+        allow="encrypted-media"
+      />
+    </div>
+  )z
 }

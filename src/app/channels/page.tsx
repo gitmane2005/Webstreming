@@ -1,51 +1,35 @@
 "use client";
 
-import channelsData from "./channels.json"
+import channelsData from "./channels.json";
 import React, { useState } from "react";
 import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
-import StreamPage from "./channel/stream.tsx"
-
+import { useRouter } from "next/router";  // Import useRouter hook
 
 export default function Channels() {
   // State to track the filter word
   const [filter, setFilter] = useState("");
-    const filteredChannels = filter
-    ? channelsData.channels.filter(channel =>
+
+  const filteredChannels = filter
+    ? channelsData.channels.filter((channel) =>
         channel.cha_Name.toLowerCase().includes(filter.toLowerCase())
       )
     : channelsData.channels;
-	
 
-  const handleChannelClick = (channelUrl: string) => {
-    // Open a new ta
-    document.body.innerHTML = 
-      `<style>
-      body {
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          height: 100vh; /* Full height */
-          margin: 0;
-          background-color: black; /* Optional */
-      }
-      iframe {
-          width: 640px;
-          height: 360px;
-          border: none;
-      }
-    </style>
+  // useRouter hook for navigation
+  const router = useRouter();
 
-    <iframe 
-        allow="encrypted-media" width="640" height="360" marginwidth="0" marginheight="0" 
-        scrolling="no" frameborder="0" allowfullscreen="yes" src="${channelUrl}">
-    `;
+  // Handle the click event for a channel
+  const handleChannelClick = (url) => {
+    const router = useRouter();
+    router.push(`/stream?url=${encodeURIComponent(url)}`);
   };
+
   return (
-    <>  
+    <>
       <Head>
-        <title> the best channels</title>
+        <title>The Best Channels</title>
       </Head>
       <div>
         <div className="container">
@@ -58,27 +42,30 @@ export default function Channels() {
             />
           </Link>
         </div>
+
         {/* Filter Input */}
         <input
           type="text"
           placeholder="Filter channels..."
           value={filter}
           onChange={(e) => setFilter(e.target.value)} // Update filter state
-          style={{ color: 'black' }}
+          style={{ color: "black" }}
         />
 
         {/* Displaying channels */}
         <div className="channels-container">
           {filteredChannels.length > 0 ? (
             filteredChannels.map((channel, index) => (
-              <div key={index}
-                  className="channel-box"
-                  onClick={() => handleChannelClick(<StreamPage url={data.channel.url}/>)}>
+              <div
+                key={index}
+                className="channel-box"
+                onClick={() => handleChannelClick(channel.url)}
+              >
                 <h3 className="channel-name">{channel.cha_Name}</h3>
               </div>
             ))
           ) : (
-            <p>No channels match your filter.</p> // If no channels match the filter
+            <p>No channels match your filter.</p>
           )}
         </div>
 
@@ -106,14 +93,13 @@ export default function Channels() {
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
             text-align: center;
           }
-          
+
           .channel-name {
             color: black;        /* Makes text black */
             justify-content: center;  /* Centers text horizontally */
             align-items: center; /* Centers text vertically */
             height: 100%;        /* Ensures full height of parent */
             text-align: center;  /* Centers text within the element */
-        
           }
 
           /* Input styles */
@@ -127,9 +113,11 @@ export default function Channels() {
             border: 1px solid #ccc;
           }
         `}</style>
+
         <footer>
           <p>
-            casadelpovo.uk does not host any of the live stream videos playing on this site. please contact video hosting provider or media poster for takedown or any other complaints
+            casadelpovo.uk does not host any of the live stream videos playing on this site.
+            Please contact the video hosting provider or media poster for takedown or any other complaints.
           </p>
         </footer>
       </div>
