@@ -1,3 +1,5 @@
+"use client";
+
 import * as React from "react";
 import Image from "next/image";
 import Link from "next/link";
@@ -14,7 +16,7 @@ export default function Home() {
       />
     </div>
     <div style={{ display: 'flex', justifyContent: 'center' , marginBottom: '10%'}}>
-      <Link href="/channels/page.tsx">
+      <Link href="/channels">
         <Image
           src="/channels.png"
           alt="Centered Channels"

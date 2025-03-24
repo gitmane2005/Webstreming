@@ -20,5 +20,5 @@ export default function Stream() {
         allow="encrypted-media"
       />
     </div>
-  )z
+  );
 }

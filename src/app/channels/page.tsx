@@ -17,12 +17,8 @@ export default function Channels() {
       )
     : channelsData.channels;
 
-  // useRouter hook for navigation
-  const router = useRouter();
-
   // Handle the click event for a channel
   const handleChannelClick = (url) => {
-    const router = useRouter();
     router.push(`/stream?url=${encodeURIComponent(url)}`);
   };
 
