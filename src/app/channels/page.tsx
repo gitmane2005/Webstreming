@@ -5,7 +5,7 @@ import React, { useState } from "react";
 import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
-import StreamPage from "./channel/stream.tsx"
+import StreamPage from "./stream.tsx"
 
 
 export default function Channels() {
