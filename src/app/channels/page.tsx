@@ -5,11 +5,12 @@ import React, { useState } from "react";
 import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
-import { useRouter } from "next/router";  // Import useRouter hook
+import { useRouter } from "next/navigation";  // Import useRouter hook
 
 export default function Channels() {
   // State to track the filter word
   const [filter, setFilter] = useState("");
+  const router = useRouter();
 
   const filteredChannels = filter
     ? channelsData.channels.filter((channel) =>
@@ -19,7 +20,7 @@ export default function Channels() {
 
   // Handle the click event for a channel
   const handleChannelClick = (url) => {
-    router.push(`/stream?url=${encodeURIComponent(url)}`);
+    router.push(`/channels/stream?url=${encodeURIComponent(url)}`);
   };
 
   return (
@@ -55,7 +56,7 @@ export default function Channels() {
               <div
                 key={index}
                 className="channel-box"
-                onClick={() => handleChannelClick(channel.url)}
+                onClick={() => handleChannelClick(channel.cha_URL)}
               >
                 <h3 className="channel-name">{channel.cha_Name}</h3>
               </div>
