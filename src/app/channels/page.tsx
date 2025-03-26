@@ -19,7 +19,7 @@ export default function Channels() {
     : channelsData.channels;
 
   // Handle the click event for a channel
-  const handleChannelClick = (url) => {
+  const handleChannelClick = (url: string) => {
     router.push(`/channels/stream?url=${encodeURIComponent(url)}`);
   };
 
