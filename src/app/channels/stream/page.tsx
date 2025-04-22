@@ -9,6 +9,7 @@ import Image from "next/image";
 function StreamContent() {
   const searchParams  = useSearchParams();
   const url = searchParams.get('url'); // Extract 'url' query parameter
+  const channel_url = channelsData.channels.find(c => c.cha_Name === decodeURIComponent(url)).cha_URL;
 
   if (!url) {
     return <p>No stream selected {url}</p>; // Handle case where URL is not valid
@@ -22,7 +23,7 @@ function StreamContent() {
       </div>
       <div style={{ display: "flex", justifyContent: "center", alignItems: "center", height: "75vh"}}>
         <iframe
-          src={channelsData.channels.find(c => c.cha_Name === decodeURIComponent(url)).cha_URL}
+          src={channel_url}
           width="640"
           height="360"
           frameBorder="0"
