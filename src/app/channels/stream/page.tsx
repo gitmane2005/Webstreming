@@ -9,10 +9,12 @@ import Image from "next/image";
 function StreamContent() {
   const searchParams  = useSearchParams();
   const url = searchParams.get('url'); // Extract 'url' query parameter
-  const channel_url = channelsData.channels.find(c => c.cha_Name === decodeURIComponent(url)).cha_URL;
+  const decodeUrl = url ? decodeURIComponent(url) : url;
+  const channel_fond = channelsData.channels.find(c => c.cha_Name === decodeUrl);
+  const channel_url = channel_fond?.cha_URL;
 
-  if (!url) {
-    return <p>No stream selected {url}</p>; // Handle case where URL is not valid
+  if (!url || !channel_url) {
+    return <p>No Ptream to be Provided Right Now Sorry</p>; // Handle case where URL is not valid
   }
   return (
     <>
