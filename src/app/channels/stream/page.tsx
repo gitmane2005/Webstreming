@@ -1,5 +1,6 @@
 "use client";
 
+import channelsData from "../channels.json";
 import React, { Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import Link from "next/link";
@@ -19,9 +20,9 @@ function StreamContent() {
           <Image src="/slogan.png" alt="Centered Image" width={500} height={300} />
         </Link>
       </div>
-      <div style={{ display: "flex", justifyContent: "center", alignItems: "center", height: "100vh", backgroundColor: "black" }}>
+      <div style={{ display: "flex", justifyContent: "center", alignItems: "center", height: "75vh"}}>
         <iframe
-          src={decodeURIComponent(url)}
+          src={channelsData.channels.find(c => c.cha_Name === decodeURIComponent(url)).cha_URL}
           width="640"
           height="360"
           frameBorder="0"
