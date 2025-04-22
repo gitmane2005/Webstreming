@@ -56,7 +56,7 @@ export default function Channels() {
               <div
                 key={index}
                 className="channel-box"
-                onClick={() => handleChannelClick(channel.cha_URL)}
+                onClick={() => handleChannelClick(channel.cha_Name)}
               >
                 <h3 className="channel-name">{channel.cha_Name}</h3>
               </div>
