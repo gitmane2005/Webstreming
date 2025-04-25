@@ -14,7 +14,7 @@ export default function Channels() {
 
   const filteredChannels = filter
     ? channelsData.channels.filter((channel) =>
-        channel.cha_Name.toLowerCase().includes(filter.toLowerCase())
+        channel.cha_Name.toLowerCase().includes((filter.toLowerCase()).replace(/\s/g, ""))
       )
     : channelsData.channels;
 
