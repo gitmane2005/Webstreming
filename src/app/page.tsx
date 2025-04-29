@@ -34,14 +34,8 @@ export default function Home() {
           justify-content: center;
           align-items: center;
           min-height: 100vh;
+        }`
         }
-        .container {
-          display: flex;
-          justify-content: center; /* Horizontally center */
-          align-items: center; /* Vertically center */
-          flex-grow: 1;
-        }
-      `}
     </style>
     <footer>
       <p>
