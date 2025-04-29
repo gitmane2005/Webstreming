@@ -3,11 +3,12 @@
 import * as React from "react";
 import Image from "next/image";
 import Link from "next/link";
+import "./globals"
 
 export default function Home() {
   return (
   <div className="wrapper">
-    <div className="container">
+    <div className="container" >
       <Image
         src="/slogan.png"
         alt="Centered Image"
@@ -15,7 +16,7 @@ export default function Home() {
         height={100}
       />
     </div>
-    <div style={{ display: 'flex', justifyContent: 'center' , marginBottom: '10%'}}>
+    <div style={{marginBottom: '10%'}}>
       <Link href="/channels">
         <Image
           src="/channels.png"
