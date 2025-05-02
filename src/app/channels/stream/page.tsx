@@ -1,16 +1,22 @@
 "use client";
 
 import channelsData from "../channels.json";
+
+interface Channel {
+  cha_Name: string;
+  cha_URL: string;
+}
 import React, { Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
 
+const channel_fond = channelsData.channels.find((c: Channel) => c.cha_Name === decodeUrl);
 function StreamContent() {
   const searchParams  = useSearchParams();
   const url = searchParams.get('url'); // Extract 'url' query parameter
   const decodeUrl = url ? decodeURIComponent(url) : url;
-  const channel_fond = channelsData.channels.find(c => c.cha_Name === decodeUrl);
+  const channel_fond = channelsData.channels.find((c: Channel) => c.cha_Name === decodeUrl);
   const channel_url = channel_fond?.cha_URL;
 
   if (!url || !channel_url) {
