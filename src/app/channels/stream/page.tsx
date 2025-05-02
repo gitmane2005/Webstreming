@@ -17,36 +17,34 @@ function StreamContent() {
     return <p>No Ptream to be Provided Right Now Sorry</p>; // Handle case where URL is not valid
   }
   return (
+    
     <>
-      <div className="container">
-        <Link href="/channels">
-          <div style={{
-              display: 'flex',
-              justifyContent: 'center',
-              alignItems: 'center',
-            }}>
-            <Image src="/slogan.png" alt="Centered Image" width={500} height={300} />
-          </div>
-        </Link>
-      </div>
-      <div style={{ display: "flex", justifyContent: "center", alignItems: "center", height: "75vh"}}>
-        <iframe
-          src={channel_url}
-          width="640"
-          height="360"
-          frameBorder="0"
-          allowFullScreen
-          allow="encrypted-media"
-        />
-      </div>
-      <style>{`
-        .container {
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          height: 25vh;
-        }
-      `}</style>
+      <head>
+        <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'none'; style-src 'self'; img-src 'self'; connect-src 'none'; form-action 'none'; frame-ancestors 'none';"/>
+      </head>
+      <body>
+        <div className="container">
+          <Link href="/channels">
+            <div style={{
+                display: 'flex',
+                justifyContent: 'center',
+                alignItems: 'center',
+              }}>
+              <Image src="/slogan.png" alt="Centered Image" width={500} height={300} />
+            </div>
+          </Link>
+        </div>
+        <div style={{ display: "flex", justifyContent: "center", alignItems: "center", height: "75vh"}}>
+          <iframe
+            src={channel_url}
+            width="640"
+            height="360"
+            frameBorder="0"
+            allowFullScreen
+            allow="encrypted-media"
+          />
+        </div>
+      </body>
     </>
   );
 }

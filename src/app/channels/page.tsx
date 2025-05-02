@@ -67,12 +67,6 @@ export default function Channels() {
         </div>
 
         <style>{`
-          .container {
-            display: flex;
-            justify-content: center; /* Horizontally center */
-            align-items: center; /* Vertically center */
-            height: 25vh; /* Make container full height to center vertically */
-          }
           /* Basic layout */
           .channels-container {
             display: flex;
@@ -90,7 +84,6 @@ export default function Channels() {
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
             text-align: center;
           }
-
           .channel-name {
             color: black;        /* Makes text black */
             justify-content: center;  /* Centers text horizontally */
@@ -98,7 +91,6 @@ export default function Channels() {
             height: 100%;        /* Ensures full height of parent */
             text-align: center;  /* Centers text within the element */
           }
-
           /* Input styles */
           .input {
             padding: 10px;
