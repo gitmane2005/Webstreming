@@ -6,4 +6,5 @@ const config = {
   },
 };
 
-export default config;
+// Use CommonJS export syntax for .cjs files
+module.exports = config;
