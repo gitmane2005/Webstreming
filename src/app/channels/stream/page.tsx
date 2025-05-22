@@ -18,15 +18,9 @@ function StreamContent() {
   }
   return (
     <>
-      <div className="container">
+      <div className="center-container">
         <Link href="/channels">
-          <div style={{
-              display: 'flex',
-              justifyContent: 'center',
-              alignItems: 'center',
-            }}>
-            <Image src="/slogan.png" alt="Centered Image" width={500} height={300} />
-          </div>
+          <Image src="/slogan.png" alt="Centered Image" width={500} height={300} />
         </Link>
       </div>
       <div style={{ display: "flex", justifyContent: "center", alignItems: "center", height: "75vh"}}>

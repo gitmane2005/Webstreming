@@ -29,7 +29,7 @@ export default function Channels() {
         <title>The Best Channels</title>
       </Head>
       <div>
-        <div className="container">
+        <div className="center-container">
           <Link href="/">
             <Image
               src="/slogan.png"
