@@ -1,10 +1,12 @@
+// postcss.config.cjs
 /** @type {import('postcss-load-config').Config} */
 const config = {
-  plugins: {
-    tailwindcss: require('@tailwindcss/postcss'),
-    autoprefixer: {},
-  },
+  plugins: [
+    // Ensure you have these packages installed:
+    // npm install -D @tailwindcss/postcss autoprefixer
+    require('@tailwindcss/postcss'),
+    require('autoprefixer'),
+  ],
 };
 
-// Use CommonJS export syntax for .cjs files
 module.exports = config;
