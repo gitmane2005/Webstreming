@@ -43,3 +43,4 @@ next-env.d.ts
 #others
 /app/channels/channels.json
 cloudflared.deb
+/app/curl_error.log
