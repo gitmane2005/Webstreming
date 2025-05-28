@@ -22,6 +22,7 @@ function StreamContent() {
         <Link href="/channels">
           <Image src="/slogan.png" alt="Centered Image" width={500} height={300} />
         </Link>
+        <p>${decodeUrl}</p>
       </div>
       <div style={{ display: "flex", justifyContent: "center", alignItems: "center", height: "75vh"}}>
         <iframe
