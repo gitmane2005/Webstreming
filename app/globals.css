@@ -34,3 +34,11 @@ body {
   align-items: center;
   height: 25vh; /* Adjust height as needed */
 }
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}

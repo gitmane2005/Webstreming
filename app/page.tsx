@@ -27,16 +27,6 @@ export default function Home() {
           />
         </Link>
     </div>
-    <style>{`
-        .wrapper {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          align-items: center;
-          min-height: 100vh;
-        }`
-        }
-    </style>
     <footer>
       <p>
         casadelpovo.uk is only available to users logging in from Portugal.<br></br>
