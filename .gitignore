@@ -42,4 +42,6 @@ next-env.d.ts
 
 #others
 /app/channels/channels.json
+/app/streams
+
 cloudflared.deb
