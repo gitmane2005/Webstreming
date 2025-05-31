@@ -25,9 +25,6 @@ export default function Channels() {
 
   return (
     <>
-      <Head>
-        <title>The Best Channels</title>
-      </Head>
       <div>
         <div className="center-container">
           <Link href="/">
@@ -65,52 +62,6 @@ export default function Channels() {
             <p>No channels match your filter.</p>
           )}
         </div>
-
-        <style>{`
-          .container {
-            display: flex;
-            justify-content: center; /* Horizontally center */
-            align-items: center; /* Vertically center */
-            height: 25vh; /* Make container full height to center vertically */
-          }
-          /* Basic layout */
-          .channels-container {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 16px; /* Gap between boxes */
-            margin-top: 20px;
-          }
-
-          /* Style for each channel box */
-          .channel-box {
-            background-color: #f0f0f0;
-            padding: 20px;
-            cursor: pointer;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            text-align: center;
-          }
-
-          .channel-name {
-            color: black;        /* Makes text black */
-            justify-content: center;  /* Centers text horizontally */
-            align-items: center; /* Centers text vertically */
-            height: 100%;        /* Ensures full height of parent */
-            text-align: center;  /* Centers text within the element */
-          }
-
-          /* Input styles */
-          .input {
-            padding: 10px;
-            font-size: 16px;
-            margin-bottom: 20px;
-            width: 100%;
-            max-width: 400px;
-            border-radius: 8px;
-            border: 1px solid #ccc;
-          }
-        `}</style>
-
         <footer>
           <p>
             casadelpovo.uk does not host any of the live stream videos playing on this site.

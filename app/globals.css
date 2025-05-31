@@ -20,6 +20,8 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+
+
 .container {
   display: flex;
   justify-content: center; /* Horizontally center */
@@ -32,7 +34,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 25vh; /* Adjust height as needed */
+  height: 25vh;/* Adjust height as needed */
 }
 
 .wrapper {
@@ -41,4 +43,52 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+}
+
+footer{
+  margin-top: auto;
+}
+
+/* Basic layout */
+.channels-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px; /* Gap between boxes */
+  margin-top: 20px;
+}
+
+/* Style for each channel box */
+.channel-box {
+  background-color: #f0f0f0;
+  padding: 20px;
+  cursor: pointer;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.channel-name {
+  color: black;        /* Makes text black */
+  justify-content: center;  /* Centers text horizontally */
+  align-items: center; /* Centers text vertically */
+  height: 100%;        /* Ensures full height of parent */
+  text-align: center;  /* Centers text within the element */
+}
+
+/* Input styles */
+.input {
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  width: 100%;
+  max-width: 400px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.stream-name{
+  color: #39ff14; /* Neon green */
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 50px;
 }

@@ -17,14 +17,14 @@ function StreamContent() {
     return <p>No Ptream to be Provided Right Now Sorry</p>; // Handle case where URL is not valid
   }
   return (
-    <>
+    <div className="wrapper">
       <div className="center-container">
         <Link href="/channels">
           <Image src="/slogan.png" alt="Centered Image" width={500} height={300} />
         </Link>
-        <p>${decodeUrl}</p>
       </div>
-      <div style={{ display: "flex", justifyContent: "center", alignItems: "center", height: "75vh"}}>
+      <p className="stream-name">{decodeUrl?.substring(0, (decodeUrl?.indexOf("[")))}</p>
+      <div style={{ display: "flex", justifyContent: "center", alignItems: "center"}}>
         <iframe
           src={channel_url}
           width="640"
@@ -34,15 +34,14 @@ function StreamContent() {
           allow="encrypted-media"
         />
       </div>
-      <style>{`
-        .container {
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          height: 25vh;
-        }
-      `}</style>
-    </>
+      <footer>
+        <p>
+          casadelpovo.uk is only available to users logging in from Portugal.<br />
+          casadelpovo.uk does not host any of the live stream videos playing on this site. Please contact the video hosting provider or media poster for takedown or any other complaints.<br />
+          Some browswers such as Safari may may block the stream. Disable the Content Blockers to use this site.
+        </p>
+      </footer>
+    </div>
   );
 }
 
