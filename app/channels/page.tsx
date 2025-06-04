@@ -3,7 +3,6 @@
 import channelsData from "./channels.json";
 import React, { useState } from "react";
 import Image from "next/image";
-import Head from "next/head";
 import Link from "next/link";
 import { useRouter } from "next/navigation";  // Import useRouter hook
 
