@@ -23,7 +23,7 @@ function StreamContent() {
           <Image src="/slogan.png" alt="Centered Image" width={500} height={300} />
         </Link>
       </div>
-      <p className="stream-name">{decodeUrl?.substring(0, (decodeUrl?.indexOf("[")))}</p>
+      <p className="stream-name">{decodeUrl?.substring(0, (decodeUrl?.indexOf("[")))}   {decodeUrl?.substring(decodeUrl?.indexOf("[")+1, decodeUrl.length-1)}</p>
       <div style={{ display: "flex", justifyContent: "center", alignItems: "center"}}>
         <iframe
           src={channel_url}
