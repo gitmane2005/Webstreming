@@ -44,3 +44,5 @@ next-env.d.ts
 /app/channels/channels.json
 cloudflared.deb
 /app/curl_error.log
+app/streams/todayStreams.json
+app/streams/topEmbeded.json
